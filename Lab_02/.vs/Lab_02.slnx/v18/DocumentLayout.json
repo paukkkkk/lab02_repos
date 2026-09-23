@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laptop\\source\\repos\\Lab_02\\",
+  "WorkspaceRootPath": "C:\\Users\\laptop\\source\\repos\\Lab_02\\Lab_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laptop\\source\\repos\\Lab_02\\Lab_02\\Lab_0.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab_02\\Lab_0.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{66348B4F-17C9-41DE-A16D-966F37221046}|Lab_02.vcxproj|C:\\Users\\laptop\\source\\repos\\Lab_02\\Lab_02\\Lab_0.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66348B4F-17C9-41DE-A16D-966F37221046}|Lab_02.vcxproj|solutionrelative:Lab_0.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,12 +21,12 @@
               "DocumentIndex": 0,
               "Title": "Lab_0.2.cpp",
               "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\Lab_02\\Lab_02\\Lab_0.2.cpp",
-              "RelativeDocumentMoniker": "Lab_02\\Lab_0.2.cpp",
+              "RelativeDocumentMoniker": "Lab_0.2.cpp",
               "ToolTip": "C:\\Users\\laptop\\source\\repos\\Lab_02\\Lab_02\\Lab_0.2.cpp",
-              "RelativeToolTip": "Lab_02\\Lab_0.2.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "RelativeToolTip": "Lab_0.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-19T18:21:56.294Z",
+              "WhenOpened": "2026-09-23T14:06:49.335Z",
               "EditorCaption": ""
             }
           ]
